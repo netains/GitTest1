@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //This is initial change.
+            //Code to call method 1.
         }
     }
 }
